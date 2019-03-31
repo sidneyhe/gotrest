@@ -1,0 +1,17 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "sgntwyvgvCadK4kRWC2U3XJmuiQ=",
+			"path": "github.com/spf13/cobra",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "6yoCzmbKvRq0aWgC/nNNlVI2Bfg=",
+			"path": "github.com/spf13/pflag",
+			"revision": ""
+		}
+	],
+	"rootPath": "gotrest"
+}
